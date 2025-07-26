@@ -1,0 +1,15 @@
+C:\Users\eliza\Desktop\MissingNumbers\obj\Debug\net8.0\MissingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliza\Desktop\MissingNumbers\obj\Debug\net8.0\MissingNumbers.AssemblyInfoInputs.cache
+C:\Users\eliza\Desktop\MissingNumbers\obj\Debug\net8.0\MissingNumbers.AssemblyInfo.cs
+C:\Users\eliza\Desktop\MissingNumbers\obj\Debug\net8.0\MissingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\eliza\Desktop\MissingNumbers\obj\Debug\net8.0\MissingNumbers.sourcelink.json
+C:\Users\eliza\Desktop\MissingNumbers\bin\Debug\net8.0\MissingNumbers.exe
+C:\Users\eliza\Desktop\MissingNumbers\bin\Debug\net8.0\MissingNumbers.deps.json
+C:\Users\eliza\Desktop\MissingNumbers\bin\Debug\net8.0\MissingNumbers.runtimeconfig.json
+C:\Users\eliza\Desktop\MissingNumbers\bin\Debug\net8.0\MissingNumbers.dll
+C:\Users\eliza\Desktop\MissingNumbers\bin\Debug\net8.0\MissingNumbers.pdb
+C:\Users\eliza\Desktop\MissingNumbers\obj\Debug\net8.0\MissingNumbers.dll
+C:\Users\eliza\Desktop\MissingNumbers\obj\Debug\net8.0\refint\MissingNumbers.dll
+C:\Users\eliza\Desktop\MissingNumbers\obj\Debug\net8.0\MissingNumbers.pdb
+C:\Users\eliza\Desktop\MissingNumbers\obj\Debug\net8.0\MissingNumbers.genruntimeconfig.cache
+C:\Users\eliza\Desktop\MissingNumbers\obj\Debug\net8.0\ref\MissingNumbers.dll
